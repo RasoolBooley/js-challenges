@@ -29,6 +29,7 @@ JavaScript Challenges for Life Choices
 - Base folders created
 - Finished Challenge one
 - created folder for challenge two
+- finished challenge 2
 
 # Contributors
 
